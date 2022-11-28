@@ -62,12 +62,13 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  correct the typing error i.e change Toys.create to Toy.create
+  <!-- - How I debugged: -->
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - Render json data
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - add a destroy route
